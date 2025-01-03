@@ -1,5 +1,5 @@
-## Hi there, I'm Néstor!
-# Nice to meet you! 👋
+# Hi there, I'm Néstor!
+## Nice to meet you! 👋
 
 # 💫 About Me:
 I'm a Data Engineer with experience in the design, development and implementation of ETL solutions. Looking to apply my data science skills to solve complex problems and generate value. Hobbyist game developer and expert mint cappuccino barista, always willing to learn and collaborate on new projects! 🤝
