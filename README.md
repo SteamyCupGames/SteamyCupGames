@@ -8,7 +8,7 @@ Currently transitioning into **Data Science and Machine Learning**, I combine my
 Looking to collaborate in **Data Engineering**, **Data Science**, or **Analytical** projects that make an impact. Let’s connect! 🚀
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nestor-piedra-319b48178/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@nestorpiedraquesada2954) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nestor-piedra-319b48178/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@SteamyCup_Games) 
 
 ## 💻 Tech Stack:
 
