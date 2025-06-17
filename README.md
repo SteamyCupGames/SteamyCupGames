@@ -47,7 +47,7 @@ Looking to collaborate in **Data Engineering**, **Data Science**, or **Analytica
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=SteamyCupGames&theme=dark&hide_border=false&include_all_commits=true&count_private=true&v=2)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SteamyCupGames&theme=dark&hide_border=false&v=2)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SteamyCupGames&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&v=3)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SteamyCupGames&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&v=2)<br/>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=SteamyCupGames&theme=radical&no-frame=false&no-bg=true&margin-w=4&v=2)
