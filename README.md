@@ -59,7 +59,7 @@ Looking to collaborate in **Data Engineering**, **Data Science**, or **Analytica
 
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=1010nishant&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=SteamyCupGames&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
   
   </td>
 </tr>
@@ -87,15 +87,6 @@ Looking to collaborate in **Data Engineering**, **Data Science**, or **Analytica
  
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SteamyCupGames&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=SteamyCupGames&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=SteamyCupGames&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SteamyCupGames&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=SteamyCupGames&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
