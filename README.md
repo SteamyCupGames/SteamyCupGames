@@ -57,6 +57,10 @@ Looking to collaborate in **Data Engineering**, **Data Science**, or **Analytica
 ---
 [![](https://visitcount.itsvg.in/api?id=SteamyCupGames&icon=0&color=0)](https://visitcount.itsvg.in)
 
+## 📈 Activity Graph
+ 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Abdalrahman-Alhamod&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 ## 🐍 A Snake Eating my Contributions Graph
 	
 <p align = "center">
