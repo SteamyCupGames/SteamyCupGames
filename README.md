@@ -45,10 +45,8 @@ Looking to collaborate in **Data Engineering**, **Data Science**, or **Analytica
 ![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B)
 
 📊 GitHub Stats:
-<!--- stats & Trophy (start) -->
 <p align="center">
-  <!--- stats (start) -->
-<table align="center">
+  <table align="center">
 <tr border="none">
 <td width="50%" align="center">
   
@@ -59,12 +57,11 @@ Looking to collaborate in **Data Engineering**, **Data Science**, or **Analytica
 
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=SteamyCupGames&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=SteamyCupGames&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
   
   </td>
 </tr>
 </table>
-<!--- stats (end) -->
 
 🏆 GitHub Trophies
 
