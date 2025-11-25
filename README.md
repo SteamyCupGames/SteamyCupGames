@@ -50,13 +50,10 @@ Looking to collaborate in **Data Engineering**, **Data Science**, or **Analytica
   <table align="center">
 <tr border="none">
 <td width="50%" align="center">
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.vercel.app/?user=SteamyCupGames&theme=dark&hide_border=false" /> 
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=SteamyCupGames&theme=dark&hide_border=false" /> 
 </td>
-
 <td width="50%" align="center">
-
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=SteamyCupGames&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-  
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=SteamyCupGames&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
   </td>
 </tr>
 </table>
