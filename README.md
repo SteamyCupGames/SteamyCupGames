@@ -52,7 +52,7 @@ Looking to collaborate in **Data Engineering**, **Data Science**, or **Analytica
 <tr border="none">
 <td width="50%" align="center">
   
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=SteamyCupGames&theme=dark&show_icons=true&count_private=true" />
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=SteamyCupGames&theme=dark&hide_border=false&include_all_commits=true&count_private=true"/>
   <br></br>
   <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=SteamyCupGames&theme=dark&hide_border=false" /> 
 </td>
@@ -71,7 +71,7 @@ Looking to collaborate in **Data Engineering**, **Data Science**, or **Analytica
 <!--- trophy (start) -->
 <div align=center>
   <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=1010nishant&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=SteamyCupGames&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="TROPHY" />
     </a>
 </div>
 <!--- trophy (start) -->
@@ -85,11 +85,22 @@ Looking to collaborate in **Data Engineering**, **Data Science**, or **Analytica
 
 ## 📈 Activity Graph
  
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Abdalrahman-Alhamod&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SteamyCupGames&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-## 🐍 A Snake Eating my Contributions Graph
-	
-<p align = "center">
-	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
-</p>
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=SteamyCupGames&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=SteamyCupGames&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SteamyCupGames&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=SteamyCupGames&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+[![](https://visitcount.itsvg.in/api?id=SteamyCupGames&icon=0&color=0)](https://visitcount.itsvg.in)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
