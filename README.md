@@ -53,7 +53,6 @@ Looking to collaborate in **Data Engineering**, **Data Science**, or **Analytica
   
   <img  align="center"  src="https://github-readme-stats.herokuapp.com/api?username=SteamyCupGames&theme=dark&hide_border=false&include_all_commits=true&count_private=true"/>
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=SteamyCupGames&theme=dark&hide_border=false" /> 
 </td>
 
 <td width="50%" align="center">
