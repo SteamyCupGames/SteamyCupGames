@@ -61,6 +61,8 @@ Looking to collaborate in **Data Engineering**, **Data Science**, or **Analytica
 
 🏆 GitHub Trophies
 
+https://github-profile-trophy.vercel.app/?username=SteamyCupGames&theme=juicyfresh
+
 <!--- trophy (start) -->
 <div align=center>
   <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
