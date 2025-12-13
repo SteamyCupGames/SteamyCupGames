@@ -64,7 +64,7 @@ Looking to collaborate in **Data Engineering**, **Data Science**, or **Analytica
 <!--- trophy (start) -->
 <div align=center>
   <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=SteamyCupGames&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="TROPHY" />
+      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=SteamyCupGames&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4" alt="TROPHY" />
     </a>
 </div>
 <!--- trophy (start) -->
