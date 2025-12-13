@@ -50,42 +50,16 @@ Looking to collaborate in **Data Engineering**, **Data Science**, or **Analytica
   <table align="center">
 <tr border="none">
 <td width="50%" align="center">
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=SteamyCupGames&theme=dark&hide_border=false" /> 
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-stats.vercel.app/api?username=SteamyCupGames&theme=radical&hide_border=false&include_all_commits=false&count_private=true" /> 
 </td>
 <td width="50%" align="center">
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=SteamyCupGames&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=SteamyCupGames&theme=radical&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
   </td>
 </tr>
 </table>
 
 
-🏆 GitHub Trophies
-
-https://github-profile-trophy.vercel.app/?username=SteamyCupGames&theme=juicyfresh
-
-<!--- trophy (start) -->
-<div align=center>
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=SteamyCupGames&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4" alt="TROPHY" />
-    </a>
-</div>
-<!--- trophy (start) -->
-
-</p>        
-<!--- stats (end) -->
-
----
-[![](https://visitcount.itsvg.in/api?id=SteamyCupGames&icon=0&color=0)](https://visitcount.itsvg.in)
-
-## 📈 Activity Graph
- 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SteamyCupGames&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-[![](https://visitcount.itsvg.in/api?id=SteamyCupGames&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
