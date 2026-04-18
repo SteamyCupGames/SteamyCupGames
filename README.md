@@ -1,11 +1,9 @@
 # 👋 Welcome to SteamyCup Games – Powered by Néstor Piedra
 ## 🎮 Game Developer | 📊 Data Analyst | 🔬 Data Scientist
 
-Hi! I’m Néstor, the person behind **SteamyCup Games**, and a Data Engineer with over 3 years of experience in building ETL pipelines, automation tools, and predictive models.
+Hi! I’m Néstor, the person behind **SteamyCup Games**, and a Machine Learning Engineer & Strategic BI Lead with over 4 years of experience delivering high-impact technical solutions. I combine my analytical background with creativity from indie game development to solve real-world problems with data.
 
-Currently transitioning into **Data Science and Machine Learning**, I combine my analytical background with creativity from indie game development to solve real-world problems with data.
-
-Looking to collaborate in **Data Engineering**, **Data Science**, or **Analytical** projects that make an impact. Let’s connect! 🚀
+Looking to collaborate in **Data Science**, **Machine Learning** or **Analytical** projects that make an impact. Let’s connect! 🚀
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nestor-piedra-319b48178/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@SteamyCup_Games) 
