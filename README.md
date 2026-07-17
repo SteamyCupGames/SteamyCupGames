@@ -1,9 +1,9 @@
 # 👋 Welcome to SteamyCup Games – Powered by Néstor Piedra
-## 🔬 Data Scientist | 📊 Data Analyst |  🎮 Game Developer 
+## 🛠️ Senior Data Engineer | 📊 Data Specialist | 🎮 Game Developer 
 
-Hi! I’m Néstor, the person behind **SteamyCup Games**, and a Machine Learning Engineer & Strategic BI Lead with over 4 years of experience delivering high-impact technical solutions. I combine my analytical background with creativity from indie game development to solve real-world problems with data.
+Hi! I’m Néstor, the person behind **SteamyCup Games**, and a Senior Data Engineer with a strong background in Machine Learning, Business Intelligence, and Data Architecture. I combine my engineering background with creativity from indie game development to design, optimize, and automate high-impact technical solutions.
 
-Looking to collaborate in **Data Science**, **Machine Learning** or **Analytical** projects that make an impact. Let’s connect! 🚀
+Always open to collaborating on **Data Engineering**, **Machine Learning**, or **Analytics** projects that make a real-world impact. Let’s connect! 🚀
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nestor-piedra-319b48178/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@SteamyCup_Games) 
@@ -12,17 +12,18 @@ Looking to collaborate in **Data Science**, **Machine Learning** or **Analytical
 
 **Languages & Libraries:**  
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)  
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)   
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 
-**Data & Visualization:**  
+**Data Engineering & Analytics:**  
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) 
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-**AI & Tools:**  
+**AI & Frameworks:**  
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
@@ -38,7 +39,7 @@ Looking to collaborate in **Data Science**, **Machine Learning** or **Analytical
 **Game Dev & Art Tools:**  
 ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine) 
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) 
-![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)  
+![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)   
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) 
 ![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B)
 
@@ -48,7 +49,7 @@ Looking to collaborate in **Data Science**, **Machine Learning** or **Analytical
   <table align="center">
 <tr border="none">
 <td width="50%" align="center">
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-stats.vercel.app/api?username=SteamyCupGames&theme=radical&hide_border=false&include_all_commits=false&count_private=true" /> 
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-stats.vercel.app/api?username=StearmyCupGames&theme=radical&hide_border=false&include_all_commits=false&count_private=true" /> 
 </td>
 <td width="50%" align="center">
   <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=SteamyCupGames&theme=radical&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
