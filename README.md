@@ -7,8 +7,8 @@ Always open to collaborating on **Data Architecture**, **Big Data**, **Machine L
 
 ---
 
-## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nestor-piedra-319b48178/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@SteamyCup_Games)
+## 🌐 Socials & Outlets
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nestor-piedra-319b48178/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@SteamyCup_Games) [![itch.io](https://img.shields.io/badge/itch.io-FA5C5C?logo=itchdotio&logoColor=white)]([https://steamycup-games.itch.io](https://steamycup-games.itch.io/)) [![Steam](https://img.shields.io/badge/Steam-000000?logo=steam&logoColor=white)]([https://store.steampowered.com](https://store.steampowered.com/curator/45696178-N%25C3%25A9stor-Piedra/))
 
 ---
 
@@ -16,13 +16,17 @@ Always open to collaborating on **Data Architecture**, **Big Data**, **Machine L
 
 **Languages & Frameworks:**  
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)   
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)    
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
-**Data Engineering, Warehousing & Lakehouse:**  
+**Data Engineering, Warehousing & Orchestration:**  
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
+![Google Cloud Platform](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 ![Google BigQuery](https://img.shields.io/badge/Google_BigQuery-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -55,23 +59,19 @@ Always open to collaborating on **Data Architecture**, **Big Data**, **Machine L
 
 ## 📊 Analytics & Profile Metrics
 
-| Commit Activity Graph | Key Profile Metrics |
+| Most Used Languages | Profile Metrics |
 | :---: | :---: |
-| ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SteamyCupGames&theme=react-dark&hide_border=true) | ![GitHub Profile Metrics](https://github-readme-stats-fast.vercel.app/api?username=SteamyCupGames&show_icons=true&theme=radical) |
-
-| Most Used Languages | Profile Overview & Metrics |
-| :---: | :---: |
-| ![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=SteamyCupGames&theme=radical&layout=compact) | **Public Repositories:** ![Repos](https://img.shields.io/badge/Repos-Dynamic-0077B5?style=flat-square)<br>**Profile Views:** ![Views](https://komarev.com/ghpvc/?username=SteamyCupGames&color=blueviolet&style=flat-square)<br>**Followers:** ![Followers](https://img.shields.io/github/followers/SteamyCupGames?style=flat-square&color=239120) |
+| ![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=SteamyCupGames&theme=radical&layout=compact) | ![GitHub Profile Metrics](https://github-readme-stats-fast.vercel.app/api?username=SteamyCupGames&show_icons=true&theme=radical) |
 
 ---
 
 ### 🏗️ Data Architecture Focus Areas
 
-| Ingestion & Streaming | Lakehouse & Medallion | Serving & Analytics |
+| Ingestion & Streaming | Lakehouse, Warehouse & Modeling | Cloud Platform, Orchestration & Analytics |
 | :--- | :--- | :--- |
-| • Kafka / Event Hubs | • Databricks / Delta Lake | • Google BigQuery |
-| • Batch ETL / PySpark | • Bronze / Silver / Gold | • Power BI Dashboards |
-| • Relational (PostgreSQL) | • Governance & Lineage | • ML Feature Store |
+| • Kafka / Event Hubs | • Databricks / Delta Lake | • Google Cloud Platform (GCP) |
+| • Batch ETL / PySpark | • Snowflake / dbt Modeling | • Airflow Workflow Orchestration |
+| • Relational (PostgreSQL) | • Bronze / Silver / Gold | • Power BI & Feature Stores |
 
 ---
 
