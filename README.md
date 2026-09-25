@@ -8,7 +8,7 @@ Always open to collaborating on **Data Architecture**, **Big Data**, **Machine L
 ---
 
 ## 🌐 Socials & Outlets
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nestor-piedra-319b48178/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@SteamyCup_Games) [![itch.io](https://img.shields.io/badge/itch.io-FA5C5C?logo=itchdotio&logoColor=white)]([https://steamycup-games.itch.io](https://steamycup-games.itch.io/)) [![Steam](https://img.shields.io/badge/Steam-000000?logo=steam&logoColor=white)]([https://store.steampowered.com](https://store.steampowered.com/curator/45696178-N%25C3%25A9stor-Piedra/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nestor-piedra-319b48178/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@SteamyCup_Games) [![itch.io](https://img.shields.io/badge/itch.io-FA5C5C?logo=itchdotio&logoColor=white)](https://steamycup-games.itch.io/) [![Steam](https://img.shields.io/badge/Steam-000000?logo=steam&logoColor=white)](https://store.steampowered.com/curator/45696178-N%25C3%25A9stor-Piedra/)
 
 ---
 
